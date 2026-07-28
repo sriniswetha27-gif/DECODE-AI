@@ -1,0 +1,7 @@
+.venv/
+venv/
+.env
+decode_ai.db
+__pycache__/
+*.py[cod]
+.streamlit/
